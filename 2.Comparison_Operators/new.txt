@@ -1,0 +1,10 @@
+Comparison Operators in Python
+Comparison operators in Python are used to compare two values. The result of a comparison is always a boolean value (True or False).
+
+List of Comparison Operators
+Equal (==)
+Not Equal (!=)
+Greater Than (>)
+Less Than (<)
+Greater Than or Equal To (>=)
+Less Than or Equal To (<=)
